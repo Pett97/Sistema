@@ -1,0 +1,26 @@
+{
+  "name": "sistema",
+  "version": "1.0.0",
+  "description": "sistema simples de teste",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pett97/Sistema.git"
+  },
+  "author": "peterson henrique padua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pett97/Sistema/issues"
+  },
+  "homepage": "https://github.com/Pett97/Sistema#readme",
+  "dependencies": {
+    "materialize-css": "^1.0.0-rc.2",
+    "mysql2": "^3.6.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.4"
+  }
+}
